@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    basic_plugin_enabled: "Enable basic-plugin plugin"
+    awesomeness_enabled: "Is this plugin awesome?"
+    awesomeness_max_volume: "What is the maximum volume possible?"
